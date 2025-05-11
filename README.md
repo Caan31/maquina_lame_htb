@@ -36,8 +36,4 @@
   <h2>Estado</h2>
   <p>Completado con user y root obtenidos.</p>
 
-  <h2>Notas personales</h2>
-  <p>
-Aunque sea una máquina de dificultad fácil, me ayudó a familiarizarme y a querer aprender cada vez más. Es mi primera máquina resuelta y me sirve como inspiración para seguir adelante.  </p>
 
-  <p><em>¡Gracias por leer!.</em></p>
